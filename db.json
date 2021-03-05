@@ -1,10 +1,16 @@
 {
   "tasks": [
     {
-      "title": "CS185",
+      "title": "CS185_Discussion",
       "day": "3/5/2020",
       "important": true,
-      "id": 1
+      "id": 2
+    },
+    {
+      "title": "math",
+      "day": "3/2/2020",
+      "important": false,
+      "id": 3
     }
   ]
 }
